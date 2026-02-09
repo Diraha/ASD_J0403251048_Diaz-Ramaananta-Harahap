@@ -1,0 +1,10 @@
+BRG001,Roti,20
+BRG002,AirMineral,15
+BRG003,TehBotol,10
+BRG004,Indomie,12
+BRG005,Susu,25
+BRG006,Coca-Cola,15
+BRG007,Kopi,30
+BRG008,Spaghetti,10
+BRG009,Keripik,8
+BRG010,EsKrim,13
